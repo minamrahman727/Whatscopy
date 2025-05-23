@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🟢 WhatsCopy - Real-time Chat App
+# 🟢 comet - Real-time Chat App
 
 <p align="center">
   <strong>A modern, full-stack real-time chat application inspired by WhatsApp</strong>
